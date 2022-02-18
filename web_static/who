@@ -1,0 +1,20 @@
+.popover {
+  display: none;
+  background-color: #fafafa;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+}
+.popover > li {
+  font-size: 16px;
+  padding: 10px;
+  list-style: none;
+  cursor: pointer;
+}
+.locations:hover .popover {
+  display: block;
+  background-color: #fafafa;
+}
+.amenities:hover .popover {
+  display: block;
+  background-color: #fafafa;
+}

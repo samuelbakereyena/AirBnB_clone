@@ -1,15 +1,11 @@
-Air BnB clone web static 
+# Web Static
 
-Background context:
+## Description
 
-web static,
+This project is a collection of static web pages for the Air BnB clone website. A live preview of each page can be seen by using the following link template:
 
-The first step is 'design', 'sketch, 'prototype' each element:
+```html
+https://b3zaleel.github.io/AirBnB_clone/web_static/<page>
+```
 
-* Create simple HTML static pages
-* Style guide
-* Fake contents
-* No Javascript
-* No data loaded from anything.
-
-During this project, I have learnt how to manuplate HTML and CSS languages. HTML is structure of my Page. CSS is the styling of my apage
+The **page** would have to be replaced by the page you want to see. For example, for the page **4-index.html**, the link is [https://b3zaleel.github.io/AirBnB_clone/web_static/4-index.html](https://b3zaleel.github.io/AirBnB_clone/web_static/4-index.html).
